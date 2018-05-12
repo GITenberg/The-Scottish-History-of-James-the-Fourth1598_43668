@@ -1,0 +1,40 @@
+_repo: The-Scottish-History-of-James-the-Fourth1598_43668
+_version: 0.1.0
+alternative_title: The Scottish History of James the IV
+covers:
+- cover_type: archival
+  image_path: 43668-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Greene, Robert
+    aliases:
+    - Cuthbert Conny-catcher
+    - Conny-catcher, Cuthbert
+    deathdate: 1592
+    gutenberg_agent_id: '5531'
+    url: http://www.gutenberg.org/2009/agents/5531
+  editor:
+    agent_name: Swaen, A. E. H. (Adriaan Ernst Hugo)
+    alias: Swaen, Adriaan Ernst Hugo
+    birthdate: 1863
+    deathdate: 1947
+    gutenberg_agent_id: '42355'
+    url: http://www.gutenberg.org/2009/agents/42355
+description: ''
+gutenberg_issued: '2013-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical drama'
+- !lcc 'PR'
+- !lcsh 'James IV, King of Scotland, 1473-1513 -- Drama'
+- !lcsh 'Scotland -- History -- James IV, 1488-1513 -- Drama'
+title: 'The Scottish History of James the Fourth
+
+  1598'
+url: http://www.gutenberg.org/ebooks/43668
