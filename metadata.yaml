@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '42355'
     url: http://www.gutenberg.org/2009/agents/42355
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43668#The-Scottish-History-of-James-the-Fourth1598
 gutenberg_issued: '2013-09-08'
 gutenberg_type: Text
 identifiers:
